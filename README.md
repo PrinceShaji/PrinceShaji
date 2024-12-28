@@ -28,6 +28,19 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,prisma,pug,express,redis,github,html,js,linux,md,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,kubernetes&perline=12" />
+  </a>
+</p>
+
 <!---
 PrinceShaji/PrinceShaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
