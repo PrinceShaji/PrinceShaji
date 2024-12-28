@@ -23,6 +23,7 @@
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/PrinceShaji/PrinceShaji/output/github-contribution-grid-snake.svg"
   />
+</picture>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
