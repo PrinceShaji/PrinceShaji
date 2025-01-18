@@ -47,7 +47,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,prisma,pug,express,redis,github,html,js,linux,md,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,kubernetes,bots,django,flask,gcp,gitlab,go,jenkins,raspberrypi&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,aws,discord,docker,postgres,prisma,pug,express,redis,github,html,js,linux,md,nginx,mongodb,mysql,nodejs,postman,py,vscode,bots,django,flask,gcp,gitlab,go,jenkins,raspberrypi&perline=12" />
   </a>
 </p>
 
